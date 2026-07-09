@@ -1,16 +1,19 @@
 # Job Application Tracker 
-## Project Status
+# Project Status
 
 🚧 This project is currently under development.
 
-### Completed
-- Core Java implementation
-- Object-Oriented Programming
-- JDBC Integration
-- CRUD Operations
-- Database Connectivity
+## Completed
+- Spring Boot Project Setup
+- Maven Configuration
+- Project Structure
+- Entity Class Design
+- MySQL Database Configuration
+- Git & GitHub Integration
 
-### In Progress
-- User Interface
-- Additional Features
-- Validation & Optimizations
+## In Progress
+- REST API Development
+- CRUD Operations
+- Service & Repository Layers
+- Frontend Development
+- Testing & Validation
